@@ -13,11 +13,11 @@ Daily driver: Linux
 
 Tech Stack
 
-Languages      Java • SQL • Bash
-Backend        Spring Boot • Maven
-Database       PostgreSQL • MySQL
-UI             JavaFX
-Tools          Git • Linux
+Languages   |   Java • SQL • Bash
+Backend     |   Spring Boot • Maven
+Database    |   PostgreSQL • MySQL
+UI          |   JavaFX
+Tools       |   Git • Linux
 
 What I'm Interested In
 
