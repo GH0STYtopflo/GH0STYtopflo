@@ -43,6 +43,4 @@ I'm a Computer Engineering student who loves building software and uncovering ex
 - ♾️ **DevOps & Infrastructure Automation** (CI/CD, environment consistency)
 - 🐧 **Linux & Open Source Ecosystems**
 </details>
-
----ava Developer • Systems Enthusiast</b>
 </p>
