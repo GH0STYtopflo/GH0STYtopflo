@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/OS-Linux_Enthusiast-orange?style=flat-square&logo=linux&logoColor=white" alt="Linux Enthusiast">
 </p>
 
-> *"The more I learn about computers, the more I want to know what happens one layer deeper."*
+> *"The more I learn about computers, the more I feel like I don't know anything"*
 
 I'm a Computer Engineering student who loves building software and uncovering exactly how computers work beneath the abstraction layers. My passion lies in low-level systems, robust backend architectures, and core networking infrastructure.
 
