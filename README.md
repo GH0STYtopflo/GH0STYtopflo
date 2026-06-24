@@ -44,29 +44,5 @@ I'm a Computer Engineering student who loves building software and uncovering ex
 - 🐧 **Linux & Open Source Ecosystems**
 </details>
 
----
-
-### 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GH0STYtopflo&show_icons=true&theme=transparent&hide_border=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GH0STYtopflo&layout=compact&theme=transparent&hide_border=true" width="48%" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=GH0STYtopflo&theme=transparent&hide_border=true" width="100%" alt="GitHub Streak" />
-</p>
-
-#### 📈 Contribution Graph
-
-<p align="center">
-  <a href="https://github.com/GH0STYtopflo">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=GH0STYtopflo&theme=github-dark-none&hide_border=true" width="100%" alt="Activity Graph" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Computer Engineering Student • Java Developer • Systems Enthusiast</b>
+---ava Developer • Systems Enthusiast</b>
 </p>
